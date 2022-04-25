@@ -2,6 +2,9 @@
   "name": "maple-icons",
   "public": true,
   "version": "0.0.4-beta.0",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
