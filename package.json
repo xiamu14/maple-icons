@@ -1,7 +1,7 @@
 {
   "name": "maple-icons",
   "private": true,
-  "version": "0.0.1-beta.0",
+  "version": "0.0.2-beta.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
