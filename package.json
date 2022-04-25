@@ -1,6 +1,6 @@
 {
   "name": "maple-icons",
-  "private": true,
+  "public": true,
   "version": "0.0.2-beta.0",
   "scripts": {
     "dev": "vite",
