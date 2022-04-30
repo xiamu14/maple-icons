@@ -12,7 +12,7 @@ specifiers:
   '@vitejs/plugin-react': ^1.3.0
   codegem: ^0.0.4-alpha.0
   codegem-load-file: ^0.0.7-beta.0
-  codegem-machine-react-svg: ^0.0.1-beta.0
+  codegem-machine-react-svg: 1.0.1-beta.0
   eslint: ^8.14.0
   eslint-config-alloy: ^4.5.1
   eslint-plugin-react: ^7.29.4
@@ -43,7 +43,7 @@ devDependencies:
   '@vitejs/plugin-react': 1.3.1
   codegem: 0.0.4-alpha.0
   codegem-load-file: 0.0.7-beta.0
-  codegem-machine-react-svg: 0.0.1-beta.0
+  codegem-machine-react-svg: 1.0.1-beta.0
   eslint: 8.14.0
   eslint-config-alloy: 4.5.1
   eslint-plugin-react: 7.29.4_eslint@8.14.0
@@ -2060,8 +2060,8 @@ packages:
       rd: 2.0.1
     dev: true
 
-  /codegem-machine-react-svg/0.0.1-beta.0:
-    resolution: {integrity: sha512-Apz/klnRoYkEUd7LPcMPaZNw1Et+flwSJj/mCYY/CxKCC9NRShe94rkMuaNVGV0oaR1rsE9eSU2mtpdGZeRyBA==}
+  /codegem-machine-react-svg/1.0.1-beta.0:
+    resolution: {integrity: sha512-aoiU0dy1chutEaPI31ZNt4C2uvDDPkBNc/cqvka9C1SQEjAsvhuwSR6nhy9+jC4sChYOWEALGekPq7kW2RkdZQ==}
     dependencies:
       '@svgr/core': 6.2.1
       '@svgr/plugin-jsx': 6.2.1_@svgr+core@6.2.1

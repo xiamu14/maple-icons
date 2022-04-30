@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { SVGProps } from 'react'
 
-const ActivityFilled = (props: SVGProps<SVGSVGElement>) => (
+const DirFilled = (props: SVGProps<SVGSVGElement>) => (
   <svg
     width="1em"
     height="1em"
@@ -17,4 +17,4 @@ const ActivityFilled = (props: SVGProps<SVGSVGElement>) => (
   </svg>
 )
 
-export default ActivityFilled
+export default DirFilled
