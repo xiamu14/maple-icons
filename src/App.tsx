@@ -5,7 +5,7 @@ import './App.scss'
 function App() {
   const toast = useToast()
   const icons = useMemo(() => {
-    const modules = import.meta.globEager('./package/*.tsx')
+    const modules = import.meta.globEager('./lib/icons/*.tsx')
     const iconArray = Object.keys(modules).map((key) => {
       const nameGroup = key.split('/')
       const iconName = nameGroup[nameGroup.length - 1].replace('.tsx', '')
